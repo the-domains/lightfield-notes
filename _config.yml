@@ -1,0 +1,14 @@
+layout_spectrum: 0.7741935
+typography_spectrum: 0.6415771
+color:
+  saturation: 0.7634408
+  lightness: 0.7168459
+  brandStrength: 0.655231
+  rhythmicContrast: 0.6738351
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Lightfield Notes
