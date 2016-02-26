@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lightfield Notes]]></title>
         <description><![CDATA[Lightfield Notes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lightfield-notes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 22:52:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 01:42:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lightfield-notes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Washington Blvd. ]]></title>
+            <description><![CDATA[<article><h1>Washington Blvd. </h1><p>Washington Blvd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d98c6f04cc7e2b20c11c596b3bbbaeec170dcfb2.png"></article>]]></description>
+            <link>https://thegrid.ai/lightfield-notes/washington-blvd/index.html</link>
+            <guid isPermaLink="false">2d2581c4-5308-4d88-b42a-9cd0f65880a7</guid>
+            <pubDate>Fri, 26 Feb 2016 01:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Civic cleanup Stamford]]></title>
             <description><![CDATA[<article><h1>Civic cleanup Stamford</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f9ef10d171b0bedb29ee91e792f488b34ff130.png"></article>]]></description>
-            <link>undefinedcivic-cleanup-stamford/index.html</link>
+            <link>https://thegrid.ai/lightfield-notes/civic-cleanup-stamford/index.html</link>
             <guid isPermaLink="false">99cfc8a2-996d-4fa5-8d16-5394fc8b88f2</guid>
             <pubDate>Fri, 19 Feb 2016 22:51:34 GMT</pubDate>
         </item>
