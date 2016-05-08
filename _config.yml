@@ -1,14 +1,26 @@
-layout_spectrum: 0.7741935
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6415771
 color:
-  saturation: 0.7634408
+  saturation: 0.9229391
+  brandStrength: 0.8835126
   lightness: 0.7168459
-  brandStrength: 0.655231
-  rhythmicContrast: 0.6738351
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#08070C'
+    - '#A0C0E7'
+    - '#767F92'
+    - '#FF9548'
+    - '#FFD987'
+  rhythmicContrast: 0.6738351
+layout_spectrum: 0.7741935
 name: Lightfield Notes
