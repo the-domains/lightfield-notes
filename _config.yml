@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6415771
 color:
   saturation: 0.9229391
   brandStrength: 0.8835126
@@ -22,5 +21,6 @@ color:
     - '#FF9548'
     - '#FFD987'
   rhythmicContrast: 0.6738351
-layout_spectrum: 0.7741935
+typography_spectrum: 0.6415771
+layout_spectrum: 0.9480287
 name: Lightfield Notes
